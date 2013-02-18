@@ -44,7 +44,7 @@ In your Spring security configuration, just add following lines and adjust any u
         <param-value>classpath*:/netcare-mvk-integration-config.xml, ..., ...</param-value>
     </context-param>
 
-== How it works ==
+## How it works
 When implementing an SSO integration with MVK, you will have to let them know the url to your application which will trigger the SSO procedure. On this url, you must apply the mvkPreAuthFilter.
 
 The mvkPreAuthFilter wil do the following:
@@ -152,8 +152,8 @@ This method is responsible to lookup a user based on the given authentication ob
         }
     }
 
-== References ==
+## References
 See the list below for projects that are using the mvk-integration module.
 
- * [http://netcare.googlecode.com Netcare Healthplan]
- * [http://netcare-video.googlecode.com Netcare Video]
+ * [Min Hälsoplan](https://github.com/callista-software/netcare-healthplan)
+ * [Netcare Video](https://github.com/callista-software/netcare-video)
