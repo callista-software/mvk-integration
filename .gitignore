@@ -16,3 +16,4 @@ doc
 **/bin
 *~
 **/xcuserdata/**
+*.iml
