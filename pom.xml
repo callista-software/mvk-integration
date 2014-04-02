@@ -5,7 +5,16 @@
   <name>Netcare Commons - MVK Integration</name>
   <description>Authentication Module for MVK</description>
   
-  <version>1.2-SNAPSHOT</version>
+  <version>1.2</version>
+
+  <distributionManagement>
+  	<repository>
+  		<id>cloudbees-private-release-repository</id>
+  		<name>Callista Software Release Respository</name>
+  		<url>dav:https://repository-callistasoftware.forge.cloudbees.com/release</url>
+  		<layout>default</layout>
+  	</repository>
+  </distributionManagement>
   
   <properties>
   	<project.build.sourceEncoding>ISO-8859-1</project.build.sourceEncoding>
