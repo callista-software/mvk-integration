@@ -5,7 +5,7 @@
   <name>Netcare Commons - MVK Integration</name>
   <description>Authentication Module for MVK</description>
   
-  <version>1.2.2</version>
+  <version>1.2.3</version>
 
   <distributionManagement>
   	<repository>
