@@ -5,7 +5,7 @@
   <name>Netcare Commons - MVK Integration</name>
   <description>Authentication Module for MVK</description>
   
-  <version>1.3.0-SNAPSHOT</version>
+  <version>1.3.0</version>
 
   <distributionManagement>
   	<repository>
@@ -20,7 +20,7 @@
         <url>https://github.com/callista-software/mvk-integration</url>
         <connection>scm:git:ssh://git@github.com/callista-software/mvk-integration.git</connection>
         <developerConnection>scm:git:ssh://git@github.com/callista-software/mvk-integration.git</developerConnection>       
-    	<tag>HEAD</tag>
+    	<tag>mvk-integration-1.3.0</tag>
   </scm>
   
   <properties>
