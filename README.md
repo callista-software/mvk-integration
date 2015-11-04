@@ -10,6 +10,10 @@ Start of by cloning the netcare-commons project. After that, navigate to the mvk
 
 This will install the module into your local maven repository.
 
+## Versions
+mvk-integration <= 1.2.3 depends on Spring Framework 3.2.x, Spring security 3.x and Apache CXF 2.7.x
+mvk-integration >= 1.3.x depends on Spring Framework 4.2.2, Spring security 4.0.3 and Apache CXF 3.1.3 
+
 ## How to use
 Start by adding a dependency to the mvk-integration module.
 
@@ -157,3 +161,4 @@ See the list below for projects that are using the mvk-integration module.
 
  * [Min Hälsoplan](https://github.com/callista-software/netcare-healthplan)
  * [Netcare Video](https://github.com/callista-software/netcare-video)
+ * [Mina Intyg](https://github.com/sklintyg/minaintyg)
