@@ -18,10 +18,10 @@
   
     <scm>
         <url>https://github.com/callista-software/mvk-integration</url>
-        <connection>scm:git:ssh://git@github.com:callista-software/mvk-integration.git</connection>
-        <developerConnection>scm:git:ssh://git@github.com:callista-software/mvk-integration.git</developerConnection>
-        <tag>HEAD</tag>
-    </scm>
+        <connection>scm:git:ssh://git@github.com/callista-software/mvk-integration.git</connection>
+        <developerConnection>scm:git:ssh://git@github.com/callista-software/mvk-integration.git</developerConnection>       
+    	<tag>HEAD</tag>
+  </scm>
   
   <properties>
   	<project.build.sourceEncoding>ISO-8859-1</project.build.sourceEncoding>
